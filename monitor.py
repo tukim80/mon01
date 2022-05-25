@@ -42,7 +42,7 @@ def main():
 
     finally:
         while True:
-            print("모니터링 진행 중!!!!!!!!!!!!!!!@")
+            print("모니터링 진행 중!!!!!!!!!!!!!!!@#")
             print("###############################")
             time.sleep(3)
             main()
